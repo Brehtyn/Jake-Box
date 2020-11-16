@@ -3,7 +3,7 @@
 :Revision: 2.0
 :License: Public Domain
 
-= Project: Jake-Box
+= Project: jake-box
 
 A jiffy little arduino based project that allows you to select brightness, set a night-timer, and even select different 
 LED patterns all wrapped up in a convenient menu system.
@@ -25,7 +25,7 @@ Upload the code contained in this sketch on to your board & enjoy
 === Folder structure
 
 ....
- Jake-Box                 => Arduino sketch folder
+ jake-box                 => Arduino sketch folder
   ├── lighting.ino        => main Arduino file
   ├── schematics.png      => (optional) an image of the required schematics
   ├── layout.png          => (optional) an image of the layout
